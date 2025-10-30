@@ -1,4 +1,4 @@
-<h1 align="center">🧺 Hizmet Sepetim</h1> <p align="center"> <img src="https://cdn-icons-png.flaticon.com/512/2920/2920237.png" alt="Cleaning Icon" width="120"/> </p> <p align="center"> <b>Temizlik Hizmetlerini Dijitalleştiriyoruz</b><br> Müşteri ile temizlikçiyi tek platformda buluşturan yenilikçi mobil uygulama. </p>
+<h1 align="center">🧺 Hizmet Sepetim</h1> <p align="center">  </p> <p align="center"> <b>Temizlik Hizmetlerini Dijitalleştiriyoruz</b><br> Müşteri ile temizlikçiyi tek platformda buluşturan yenilikçi mobil uygulama. </p>
 
 <h2>🌍 Hakkında</h2> <p><b>Hizmet Sepetim</b>, temizlik hizmeti arayan müşteriler ile kendi ilanlarını paylaşan temizlikçileri bir araya getiren modern bir mobil platformdur.<br> Tıpkı <i>sahibinden.com</i> mantığında çalışır, ancak sadece <b>temizlik sektörü</b> odaklıdır.</p> <p>📱 Şu anda uygulama <b>Kotlin</b> ile geliştirilmiş olup <b>Android</b> cihazlarda çalışmaktadır.<br> 🍏 Yakın gelecekte <b>iOS sürümü</b> de geliştirilecektir.</p>
 
