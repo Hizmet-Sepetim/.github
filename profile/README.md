@@ -1,15 +1,1 @@
-<h1 align="center">🧺 Hizmet Sepetim</h1> <p align="center">  </p> <p align="center"> <b>Temizlik Hizmetlerini Dijitalleştiriyoruz</b><br> Müşteri ile temizlikçiyi tek platformda buluşturan yenilikçi mobil uygulama. </p>
 
-<h2>🌍 Hakkında</h2> <p><b>Hizmet Sepetim</b>, temizlik hizmeti arayan müşteriler ile kendi ilanlarını paylaşan temizlikçileri bir araya getiren modern bir mobil platformdur.<br> Tıpkı <i>sahibinden.com</i> mantığında çalışır, ancak sadece <b>temizlik sektörü</b> odaklıdır.</p> <p>📱 Şu anda uygulama <b>Kotlin</b> ile geliştirilmiş olup <b>Android</b> cihazlarda çalışmaktadır.<br> 🍏 Yakın gelecekte <b>iOS sürümü</b> de geliştirilecektir.</p>
-
-<h2>✨ Özellikler</h2> <ul> <li>👤 <b>Temizlikçi Profilleri:</b> Hizmet verenler kendi ilanlarını oluşturabilir.</li> <li>🏠 <b>Müşteri Arayüzü:</b> Kullanıcılar bölgesine göre temizlikçi arayabilir ve filtreleyebilir.</li> <li>💬 <b>Anlık Mesajlaşma (Planlanan):</b> Müşteri ile hizmet sağlayıcı doğrudan iletişime geçebilir.</li> <li>⭐ <b>Değerlendirme Sistemi:</b> Hizmet sonrası geri bildirimlerle güven oluşur.</li> <li>💸 <b>Güvenli Ödeme (Planlanan):</b> Uygulama içi ödeme altyapısı eklenecektir.</li> </ul>
-
-<h2>🧩 Teknolojiler</h2> <table> <tr><th>Kategori</th><th>Teknoloji</th></tr> <tr><td>Mobil Geliştirme</td><td><a href="https://developer.android.com/kotlin">Kotlin</a></td></tr> <tr><td>UI / UX</td><td><a href="https://developer.android.com/jetpack/compose">Jetpack Compose</a> (Planlı)</td></tr> <tr><td>Backend</td><td>REST API (Spring Boot / Node.js) (Geliştirme Aşamasında)</td></tr> <tr><td>Veritabanı</td><td>Firebase Firestore / PostgreSQL (Deneme Aşamasında)</td></tr> <tr><td>Versiyon Kontrol</td><td>Git + GitHub</td></tr> </table>
-
-<h2>💼 Yatırımcı Arıyoruz</h2> <p>Hizmet Sepetim, Türkiye’de temizlik sektörünü dijitalleştirmeyi hedefleyen yenilikçi bir girişimdir.<br> Projemizi büyütmek, altyapıyı güçlendirmek ve pazarlama faaliyetlerini başlatmak için <b>yatırım desteği</b> arıyoruz.</p> <p>📩 İlgilenen yatırımcılar bizimle iletişime geçebilir:</p> <p> 🌐 <a href="https://bugradev.com" target="_blank">bugradev.com</a><br> 📧 <a href="mailto:info@bugradev.com">info@bugradev.com</a> </p>
-
-<h2>👨‍💻 Geliştirici</h2> <p> <b>Yazılım Geliştiricisi:</b> <a href="https://bugradev.com">Buğra Akdemir</a><br> Yenilikçi mobil çözümler geliştiren bağımsız yazılım geliştirici.<br> Kotlin, Android, Firebase ve modern UI/UX tasarımı üzerine odaklanıyor. </p>
-
-<h2>🚀 Gelecek Planları</h2> <ul> <li>📱 iOS sürümü (SwiftUI)</li> <li>☁️ Cloud tabanlı rezervasyon sistemi</li> <li>🔔 Bildirim ve mesaj altyapısı</li> <li>🌍 Çoklu dil desteği</li> <li>🧾 Temizlikçi doğrulama ve sertifika sistemi</li> </ul>
-
-<p align="center"> <img src="https://cdn-icons-png.flaticon.com/512/744/744502.png" alt="Logo" width="80"/><br><br> <b>Hizmet Sepetim</b> – Temizlik artık bir tık uzağınızda!<br><br> <a href="https://bugradev.com">🌐 bugradev.com</a> </p>
